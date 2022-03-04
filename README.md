@@ -1,7 +1,7 @@
 # NeuralStyleTransfer
 Performs Neural Style transfer on images
 
-## in other words, I trained a neural network to to adopt the visual style of a piece of art, and then incorporate them into an image to create a new picture 
+## In other words, I trained a neural network to to adopt the visual style of a piece of art, and then incorporate them into an image to create a new picture 
 ![good1](https://user-images.githubusercontent.com/99306631/153116154-25eb7b32-ecd9-4f2c-bcae-54abb4755b5a.jpg)
 ![good2](https://user-images.githubusercontent.com/99306631/153116166-cb12a760-8173-4cd4-87de-639e3524d51f.jpg)
 ![process9](https://user-images.githubusercontent.com/99306631/153116199-10f3cf8e-3a1c-4692-94ab-606457f44fc0.jpg)
